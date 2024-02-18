@@ -48,5 +48,5 @@ Now the program is located in `<location of this repostory>/build/bin`.
 > Tip: you might want to add this folder to your path so that you can just run `number-guessing-game`
 
 ```bash
-echo 'PATH="<location of this repostory>/build/bin":$PATH'
+echo 'PATH="<location of this repostory>/build/bin":$PATH' >> ~/.bashrc # (or whatever else shell's configuration file you use)
 ```
