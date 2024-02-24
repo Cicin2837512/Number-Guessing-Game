@@ -1,6 +1,6 @@
 # The Number Guessing Game
 
-I just coded a simple number guessing game with infinite amount of attempts in c++, and I decided to post it on github..
+I just coded a simple number guessing game with infinite amount of attempts in C++, and I decided to post it on github..
 
 ## Prerequisites
 
